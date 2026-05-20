@@ -172,7 +172,7 @@ linkedin-job-scout/
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/linkedin-job-scout.git
+git clone https://github.com/vrawat12/linkedin-job-scout
 cd linkedin-job-scout
 
 # Install Python dependencies
