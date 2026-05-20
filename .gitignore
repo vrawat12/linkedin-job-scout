@@ -1,0 +1,47 @@
+# Secrets — never commit these
+.env
+token.json
+credentials.json
+session.json
+
+# Runtime output
+scout.log
+seen_jobs.json
+scored_jobs.json
+debug_job.html
+
+# Eval history — personal scoring history, stays local
+evals/eval_history.csv
+evals/results/
+
+# Generated resume docs — personal content, stays local
+tailored_resumes/
+
+# Personal resume and context files — never commit
+resume_template.docx
+context/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Playwright
+.playwright/
+playwright-report/
+
+# IDE
+.vscode/
+.idea/
+*.swp

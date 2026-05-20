@@ -1,0 +1,303 @@
+{
+  "test_cases": [
+    {
+      "id": "tc_001",
+      "description": "Known high score — Head of Product Trust & Safety at Square (real job, ground truth)",
+      "source": "real",
+      "job": {
+        "job_id": "eval_tc_001",
+        "title": "Head of Product, Trust and Safety",
+        "company": "Block (Square)",
+        "location": "New York, NY or Remote",
+        "applicant_count": null,
+        "description": "Square is seeking a Head of Product for our Trust & Safety suite. You will define the vision and roadmap for systems protecting sellers and buyers across our payments ecosystem, including dispute resolution, fraud prevention, and seller protection programs.\n\nResponsibilities: Own the risk decisioning platform covering real-time fraud scoring, dispute management, and chargeback resolution. Lead product strategy for fraud detection, identity risk, and seller protection at payments scale. Partner with ML teams to deploy fraud models and risk signals across Square's ecosystem. Build and manage a team of PMs across fraud, disputes, and platform infrastructure. Drive alignment with Compliance, Legal, Finance on regulatory requirements and dispute SLAs. Define KPIs for fraud loss rates, dispute win rates, and seller experience metrics.\n\nRequirements: 10+ years in product management, 5+ years in financial services, payments, fraud, risk, or trust & safety. Experience building risk platform products: fraud detection, identity verification, dispute resolution. Strong technical foundation working with ML engineers and data scientists. Track record of cross-functional leadership across engineering, data science, legal, compliance. Domain knowledge in payments fraud, chargeback economics, or identity risk.\n\nWe are excited if you have: decisioning platforms, agentic AI for fraud detection, real-time risk scoring, KYC/identity verification, or seller protection at scale. Square offers hybrid work (2-3 days/week in NY/SF) or fully remote."
+      },
+      "expected": {
+        "score_min": 7,
+        "score_max": 10,
+        "ai_opportunity": true,
+        "required_match_tags": ["fintech", "payments", "platform", "AI", "fraud", "risk", "decisioning"],
+        "forbidden_match_tags": [],
+        "red_flags_expected": false
+      },
+      "eval_type": "accuracy",
+      "failure_mode_tested": "none"
+    },
+    {
+      "id": "tc_002",
+      "description": "Known high score — Agentic Treasury Product Strategy Director at JPMorgan (real job, ground truth)",
+      "source": "real",
+      "job": {
+        "job_id": "eval_tc_002",
+        "title": "Agentic Treasury Product Strategy Director - Payments - Executive Director",
+        "company": "JPMorgan Chase Bank, N.A.",
+        "location": "New York, NY",
+        "applicant_count": null,
+        "description": "JPMorgan Chase's Payments business is building the next generation of treasury and payments intelligence using agentic AI. As an Executive Director in Agentic Treasury Product Strategy, you will lead the product vision for AI-powered treasury management solutions serving our corporate and institutional client base.\n\nThis is a senior product leadership role at the intersection of treasury operations, payments infrastructure, and agentic AI deployment. You will define and execute the multi-year roadmap for AI-native treasury products — automating complex cash management decisions, intelligent payment routing, and real-time liquidity decisioning for global corporate clients.\n\nResponsibilities: Define product strategy for agentic treasury capabilities across JPMC's Payments platform serving Fortune 500 treasury teams. Lead a cross-functional team developing AI agents that automate cash positioning, FX hedging decisions, and payment orchestration. Partner with treasury operations, sales, and technology to identify agentic AI use cases with measurable P&L impact. Work directly with corporate treasury clients to validate product direction. Own the product lifecycle from concept through launch for AI-powered treasury features. Navigate regulatory and compliance requirements for AI deployment in financial services.\n\nRequirements: 12+ years in product management, strategy, or finance with significant exposure to treasury management, corporate banking, or institutional payments. Track record of leading complex product initiatives in a large financial institution or enterprise fintech. Experience with AI/ML product development including defining requirements for models and deploying AI-assisted workflows. Strong understanding of treasury operations: cash management, liquidity, FX, payment orchestration. Executive presence to influence stakeholders across business units, technology, compliance, and C-suite.\n\nPreferred: Background in agentic AI product design or workflow automation in financial services. Experience deploying LLM-based applications in regulated environments. Knowledge of payment rails (SWIFT, ACH, Fedwire, CHIPS)."
+      },
+      "expected": {
+        "score_min": 8,
+        "score_max": 10,
+        "ai_opportunity": true,
+        "required_match_tags": ["payments", "fintech", "AI", "decisioning", "platform"],
+        "forbidden_match_tags": [],
+        "red_flags_expected": false
+      },
+      "eval_type": "accuracy",
+      "failure_mode_tested": "none"
+    },
+    {
+      "id": "tc_003",
+      "description": "Known high score — Product Lead AI at Stripe (real job, ground truth)",
+      "source": "real",
+      "job": {
+        "job_id": "eval_tc_003",
+        "title": "Product Lead, AI",
+        "company": "Stripe",
+        "location": "New York, NY or Remote",
+        "applicant_count": null,
+        "description": "Stripe builds financial infrastructure for the internet. We are looking for a Product Lead, AI to shape how AI transforms our core payments and financial intelligence products. You will work at the intersection of large language models, machine learning systems, and payments infrastructure — defining product strategy for AI-native features and building the roadmap for AI integration across Stripe's platform.\n\nThis role partners closely with Stripe's ML research teams, the Payments Intelligence team, and developer-facing product groups to ship AI capabilities that improve fraud detection, risk scoring, revenue optimization, and financial forecasting.\n\nResponsibilities: Define and own the product roadmap for Stripe's AI and ML-powered product suite including Radar (fraud prevention), Payments Intelligence, and emerging LLM-assisted workflows. Work with ML engineering to translate research capabilities into customer-facing products — from fraud model improvements to AI-assisted dispute resolution. Identify high-value AI applications across Stripe's core platform (payments, billing, Treasury, Connect) and build the business case for investment. Define the metrics framework for AI product outcomes: fraud prevention rates, model precision/recall, developer adoption, revenue impact. Drive alignment with engineering, design, compliance, and ML research on AI product direction.\n\nRequirements: 8+ years in product management with meaningful experience in AI/ML products or fintech. Strong technical foundation — comfortable designing ML model requirements, reviewing model performance, and working with research engineers. Experience owning a product with meaningful financial or payments domain expertise (fraud, risk, lending, payments, billing). Track record of shipping AI or ML-powered features in production. Strong analytical mindset to define success metrics for probabilistic AI systems.\n\nPreferred: Experience with LLM product development (RAG, agents, structured outputs). Payments or fintech platform background. Experience with developer-facing AI products or APIs. Stripe is remote-friendly with hubs in SF, NYC, Dublin, and Singapore."
+      },
+      "expected": {
+        "score_min": 8,
+        "score_max": 10,
+        "ai_opportunity": true,
+        "required_match_tags": ["AI", "fintech", "payments", "platform"],
+        "forbidden_match_tags": [],
+        "red_flags_expected": false
+      },
+      "eval_type": "accuracy",
+      "failure_mode_tested": "none"
+    },
+    {
+      "id": "tc_004",
+      "description": "Known high score — Director Product Management Next Gen Platform at Marqeta (real job, ground truth)",
+      "source": "real",
+      "job": {
+        "job_id": "eval_tc_004",
+        "title": "Director, Product Management - Next Gen Platform",
+        "company": "Marqeta",
+        "location": "Oakland, CA (Remote OK)",
+        "applicant_count": null,
+        "description": "Marqeta is the global card issuing platform that empowers businesses to build differentiated payment experiences. We process over $200B in annualized TPV across thousands of fintech programs, neobanks, and enterprise clients. Marqeta is building the next generation of its core card issuing and processing platform.\n\nAs Director of Product Management, Next Gen Platform, you will lead the product strategy for modernizing Marqeta's foundational infrastructure — including card program configuration, real-time authorization, ledger systems, and developer APIs. This is a platform-level role. You will own the roadmap for rebuilding Marqeta's core processing stack to support higher scale, deeper configurability, and more sophisticated card program logic.\n\nResponsibilities: Define and execute the multi-year product strategy for Marqeta's Next Gen platform including ledger modernization, authorization architecture, and configuration APIs. Lead a team of 3-4 PMs across authorization, card program management, and developer experience domains. Work closely with engineering leadership to drive the platform re-architecture from monolith to event-driven microservices. Establish product requirements for processing throughput, authorization latency, configurability, and API reliability. Engage with Marqeta's largest enterprise clients including fintech scale-ups, neobanks, and card-as-a-service partners. Define and track platform KPIs: authorization approval rates, processing latency, developer integration time.\n\nRequirements: 8+ years in product management with 4+ years in payments, card issuing, or financial infrastructure platforms. Deep understanding of card network rules, authorization flows, and issuer processing (Visa, Mastercard). Experience leading platform or infrastructure product teams through major technical modernization. Strong technical background comfortable reviewing API specs and working with distributed systems engineers. Track record managing complex stakeholder relationships across enterprise clients, engineering, and GTM.\n\nNice to Have: Experience with real-time payment rails. Background in ledger systems or card program management software. Experience at a card network, payments processor, or card-as-a-service company."
+      },
+      "expected": {
+        "score_min": 7,
+        "score_max": 10,
+        "ai_opportunity": false,
+        "required_match_tags": ["fintech", "payments", "platform"],
+        "forbidden_match_tags": [],
+        "red_flags_expected": false
+      },
+      "eval_type": "accuracy",
+      "failure_mode_tested": "none"
+    },
+    {
+      "id": "tc_005",
+      "description": "Known false positive — Research Engineer Safeguards at AI lab (failure mode: wrong role type not penalized)",
+      "source": "real",
+      "job": {
+        "job_id": "eval_tc_005",
+        "title": "Research Engineer, Safeguards",
+        "company": "Apex AI Research",
+        "location": "San Francisco, CA",
+        "applicant_count": null,
+        "description": "Apex AI Research is a frontier AI safety laboratory developing the next generation of large language models. We are looking for a Research Engineer to join our Safeguards team.\n\nThis is a research-first role. You will design and run experiments to evaluate the safety properties of our models, develop new techniques for detecting and mitigating harmful behaviors, and contribute to our published research on AI alignment and model evaluation. You will be expected to independently generate novel hypotheses, design rigorous experiments, and publish findings in peer-reviewed venues. You will not have product management responsibilities — this role sits entirely within the research organization.\n\nResponsibilities: Design and run large-scale experiments to evaluate model safety properties including truthfulness, harmlessness, and robustness to adversarial inputs. Develop new red-teaming techniques to surface failure modes in frontier models before deployment. Build automated evaluation frameworks for measuring model behavior at scale. Contribute to the internal alignment research agenda: preference learning, Constitutional AI, scalable oversight. Publish research at top AI venues (NeurIPS, ICML, ICLR, ACL). Collaborate with model training teams to inform safety-relevant training decisions.\n\nRequirements: PhD in machine learning, computer science, statistics, or a related field (or equivalent research experience). Strong publication record in AI safety, alignment, or ML evaluation. Deep experience with large language model training and evaluation (PyTorch, JAX, distributed training). Proficiency in Python and experience building research infrastructure. Strong mathematical background in probability theory, optimization, and statistics.\n\nThis is a Research Engineer role, not a product or engineering role. No prior product management experience is required or expected. Candidates without a strong ML research background will not be considered. Compensation includes competitive research salary, equity, and relocation to San Francisco."
+      },
+      "expected": {
+        "score_min": 1,
+        "score_max": 4,
+        "ai_opportunity": false,
+        "required_match_tags": [],
+        "forbidden_match_tags": [],
+        "red_flags_expected": true
+      },
+      "eval_type": "accuracy",
+      "failure_mode_tested": "wrong_role_type_not_penalized"
+    },
+    {
+      "id": "tc_006",
+      "description": "Known false positive — Senior Solutions Architect at Alloy (failure mode: no SA experience not flagged)",
+      "source": "real",
+      "job": {
+        "job_id": "eval_tc_006",
+        "title": "Senior Solutions Architect",
+        "company": "Alloy",
+        "location": "New York, NY",
+        "applicant_count": null,
+        "description": "Alloy is the identity decisioning platform for banks and fintech companies. Our platform helps financial institutions orchestrate identity verification, KYC/AML compliance, fraud detection, and onboarding decisions. We serve 600+ banks, credit unions, and fintechs.\n\nAlloy is looking for a Senior Solutions Architect to join our Enterprise post-sales team. You will work directly with Alloy's largest and most complex enterprise clients — guiding their technical implementation of Alloy's identity decisioning platform, designing architecture solutions, and acting as the primary technical advisor throughout the client lifecycle.\n\nThis is a client-facing technical role, not a product or engineering role. You will spend the majority of your time deeply embedded with enterprise clients' engineering and compliance teams — designing integrations, troubleshooting implementations, and ensuring clients get maximum value from Alloy's platform.\n\nResponsibilities: Own the technical solution design for enterprise clients implementing Alloy's identity decisioning platform including API architecture, data flows, and integration with client core banking systems. Lead technical discovery sessions with client engineering teams. Build and maintain custom integration documentation, architecture diagrams, and technical runbooks for enterprise accounts. Troubleshoot complex API integration issues, webhook configurations, and data format mismatches. Act as the primary technical advisor for 15-20 enterprise accounts. Lead technical presentations and architecture reviews with CTO-level and VP Engineering stakeholders.\n\nRequirements: 5+ years of experience as a Solutions Architect, Technical Account Manager, or Implementation Engineer specifically in enterprise SaaS, fintech, or identity/compliance software. Strong technical background: REST API design, JSON/XML, OAuth flows, webhook architectures, and common integration patterns. Experience implementing KYC/AML, identity verification, fraud detection, or compliance technology at financial institutions. Ability to read and write code samples in at least one language (Python, JavaScript, Java). Strong client-facing communication skills. No prior product management experience required — this is a technical delivery role."
+      },
+      "expected": {
+        "score_min": 3,
+        "score_max": 6,
+        "ai_opportunity": false,
+        "required_match_tags": [],
+        "forbidden_match_tags": [],
+        "red_flags_expected": true
+      },
+      "eval_type": "accuracy",
+      "failure_mode_tested": "non_pm_role_type_not_checked"
+    },
+    {
+      "id": "tc_007",
+      "description": "Known false positive — Forward Deployed AI at consulting firm (failure mode: consulting not penalized vs FDE at AI-native company)",
+      "source": "real",
+      "job": {
+        "job_id": "eval_tc_007",
+        "title": "Forward Deployed Engineer, Applied AI - Financial Services",
+        "company": "Meridian Consulting Group",
+        "location": "New York, NY or Client Sites",
+        "applicant_count": null,
+        "description": "Meridian Consulting Group is a management and technology consulting firm specializing in AI transformation for enterprise financial services clients. Our Applied AI practice helps banks, insurers, and capital markets firms adopt large language models, predictive analytics, and automation at scale.\n\nMeridian is looking for a Forward Deployed Engineer (FDE) to join our Applied AI, Financial Services practice. As an FDE, you will be embedded at client sites — working within client technology and operations teams to design, build, and deploy AI solutions. This is a consulting delivery role: you will work on multiple client engagements over the course of a year, typically spending 3-6 months deeply integrated into a single client's environment before transitioning to the next engagement.\n\nThis is a professional services and consulting role — you will represent Meridian at client sites, not build internal products. You will not have internal product ownership. Your output is client deliverables: architecture designs, implementation code, deployment runbooks, and client-facing documentation.\n\nResponsibilities: Embed with client teams (banks, insurers, asset managers) to implement AI/ML solutions including LLM-powered document processing and AI-assisted compliance workflows. Translate client business requirements into technical AI architectures. Build and deploy AI solutions on client infrastructure integrating with client data systems and legacy platforms. Produce consulting deliverables: solution blueprints, technical specifications, implementation roadmaps, and post-project documentation. Manage client relationships as the Meridian AI subject matter expert. Travel to client sites as required (40-60% travel expected, primarily Northeast US).\n\nRequirements: 5+ years of experience in technology consulting, professional services, or client-facing solution delivery — ideally at a major consulting firm (Deloitte, Accenture, McKinsey, BCG, KPMG) or boutique fintech consultancy. Technical background in AI/ML implementation: LLMs, Python, cloud deployment, API integration. Consulting mindset: client-first, deliverable-driven, billable-hour model. Ability to manage multiple client engagements simultaneously.\n\nThis role is a consulting delivery position at Meridian Consulting Group. You will represent Meridian as a consultant, not as an embedded product team member. Internal product ownership is not part of this role. Compensation: consulting base salary plus performance bonus plus travel allowance. Equity not offered."
+      },
+      "expected": {
+        "score_min": 1,
+        "score_max": 4,
+        "ai_opportunity": false,
+        "required_match_tags": [],
+        "forbidden_match_tags": ["consulting"],
+        "red_flags_expected": true
+      },
+      "eval_type": "accuracy",
+      "failure_mode_tested": "consulting_exclusion_not_applied"
+    },
+    {
+      "id": "tc_008",
+      "description": "Synthetic strong fit — VP Product AI credit decisioning at Series B fintech (ideal role, should score 8-10)",
+      "source": "synthetic",
+      "job": {
+        "job_id": "eval_tc_008",
+        "title": "VP of Product, AI Credit Decisioning",
+        "company": "NovaCred",
+        "location": "New York, NY (Remote-Friendly)",
+        "applicant_count": 28,
+        "description": "NovaCred is a Series B fintech building AI-powered credit decisioning infrastructure for community banks and credit unions. Our platform automates underwriting, risk scoring, and compliance workflows for consumer and small business lending. We process $2B in loan originations annually and serve 150+ financial institutions. We raised $85M Series B in early 2026 and are scaling rapidly.\n\nNovaCred is looking for a VP of Product to lead our AI credit decisioning product line. This is a high-impact role that owns our core ML model governance framework, underwriting automation platform, and risk platform infrastructure. You will report directly to the CEO and own both product strategy and P&L for NovaCred's decisioning suite, leading a team of 5 PMs and 40+ engineers.\n\nResponsibilities: Define and execute the multi-year product roadmap for NovaCred's AI credit decisioning platform including ML model governance, underwriting automation, risk orchestration, and compliance tooling. Own the P&L for NovaCred's decisioning product line. Lead ML model governance: define policies for model validation, bias testing, adverse action explanation, and regulatory compliance (ECOA, Fair Lending). Partner with data science and ML engineering to develop next-generation credit risk models. Drive cross-functional delivery across 40+ engineers, data scientists, compliance, and operations. Define KPIs for decisioning quality: approval rates, default rates, time-to-decision, false positive rates. Engage directly with bank and credit union customers to validate product strategy. Build the business case for new AI-native decisioning capabilities: alternative data, LLM-assisted credit memos, agentic underwriting workflows.\n\nRequirements: 10+ years of product management experience with 5+ years in credit decisioning, underwriting, risk platforms, or financial services infrastructure. P&L ownership experience in a product leadership role. Deep understanding of credit risk: underwriting logic, FICO/alternative data models, adverse action requirements, Fair Lending compliance. Experience leading ML model governance in a regulated financial services environment. Strong technical foundation comfortable reviewing model performance reports and working with data scientists. Remote-friendly with HQ in New York."
+      },
+      "expected": {
+        "score_min": 8,
+        "score_max": 10,
+        "ai_opportunity": true,
+        "required_match_tags": ["fintech", "AI", "decisioning", "credit", "risk", "platform"],
+        "forbidden_match_tags": [],
+        "red_flags_expected": false
+      },
+      "eval_type": "accuracy",
+      "failure_mode_tested": "none"
+    },
+    {
+      "id": "tc_009",
+      "description": "Synthetic weak fit — Senior PM at consumer social app (no fintech, no payments, no AI infra, should score 1-3)",
+      "source": "synthetic",
+      "job": {
+        "job_id": "eval_tc_009",
+        "title": "Senior Product Manager, Social Features",
+        "company": "FriendLoop",
+        "location": "San Francisco, CA",
+        "applicant_count": null,
+        "description": "FriendLoop is a consumer social app with 50M monthly active users. Our platform helps people discover, share, and connect around shared interests. We raised $120M Series D in 2025 and are scaling our product and engineering teams.\n\nFriendLoop is looking for a Senior Product Manager to lead our Social Features team. You will own the product roadmap for user-generated content, social graph growth, and in-app engagement features. This is a consumer product role focused on user growth and engagement metrics.\n\nResponsibilities: Own the roadmap for FriendLoop's social features: friend discovery, content sharing, groups, and notifications. Run A/B tests and experiments to improve DAU/MAU, session length, and content engagement. Analyze user behavior data to identify growth opportunities and engagement drop-off points. Partner with Design, Engineering, and Data Science to ship new social features on a weekly cadence. Define success metrics for social feature launches: activation rate, D7/D30 retention, viral coefficient. Work with Marketing and Growth teams to align product features with acquisition campaigns. Conduct user research including interviews, usability tests, and surveys.\n\nRequirements: 4-6 years of product management experience in consumer mobile apps. Track record of shipping consumer features with measurable engagement impact. Strong analytical skills comfortable with SQL, experimentation analysis, and funnel metrics. Experience with mobile A/B testing platforms (Optimizely, Amplitude, Braze). Consumer mindset deeply empathetic to user needs and behaviors.\n\nNo experience in fintech, payments, financial services, or AI/ML platforms required or preferred. This is a pure consumer mobile product role with no platform component. Compensation: $160K-$190K base plus equity."
+      },
+      "expected": {
+        "score_min": 1,
+        "score_max": 3,
+        "ai_opportunity": false,
+        "required_match_tags": [],
+        "forbidden_match_tags": [],
+        "red_flags_expected": true
+      },
+      "eval_type": "accuracy",
+      "failure_mode_tested": "none"
+    },
+    {
+      "id": "tc_010",
+      "description": "Synthetic grey zone — Director of Data Analytics at regional bank (adjacent but limited scope, should score 4-7)",
+      "source": "synthetic",
+      "job": {
+        "job_id": "eval_tc_010",
+        "title": "Director of Data Analytics",
+        "company": "Midland Regional Bank",
+        "location": "Chicago, IL (Hybrid)",
+        "applicant_count": null,
+        "description": "Midland Regional Bank is a $15B asset community bank serving businesses and individuals across the Midwest. We are modernizing our data and analytics capabilities to improve executive decision-making and customer insights. Our Data Analytics team reports to the Chief Data Officer.\n\nMidland Regional Bank is looking for a Director of Data Analytics to lead our enterprise analytics function. You will oversee a team of analysts and BI developers, build our reporting infrastructure, and deliver actionable insights to senior bank leadership.\n\nResponsibilities: Lead a team of 8 data analysts and BI developers supporting business lines across retail banking, commercial lending, and operations. Build and maintain executive-level reporting infrastructure: dashboards, scorecards, and data products for the C-suite and Board. Develop SQL-based data pipelines and reporting frameworks using our enterprise data warehouse (Snowflake). Partner with business leaders across Retail, Commercial, Treasury, and Risk to understand data and analytics needs. Drive adoption of self-service BI tools (Tableau, Power BI) across the bank. Define data quality standards and governance processes for reporting data. Present monthly and quarterly analytics deliverables to the executive leadership team and Board committees.\n\nRequirements: 8+ years in data analytics, business intelligence, or data management with 3+ years in financial services. Strong SQL skills and experience with enterprise data warehouse platforms (Snowflake, Redshift, Databricks). Proficiency with BI tools: Tableau, Power BI, or Looker. Experience building dashboards and reporting products for executive audiences. Leadership experience managing analytics teams. Financial services background preferred.\n\nNo AI/ML or platform product experience required. This role is focused on reporting, dashboards, and BI infrastructure — not AI model development or product management. Compensation: $140K-$170K base plus annual bonus. Chicago-based with 3 days per week in office required."
+      },
+      "expected": {
+        "score_min": 4,
+        "score_max": 7,
+        "ai_opportunity": false,
+        "required_match_tags": [],
+        "forbidden_match_tags": [],
+        "red_flags_expected": false
+      },
+      "eval_type": "accuracy",
+      "failure_mode_tested": "none"
+    },
+    {
+      "id": "tc_011",
+      "description": "Edge case — Customer Success Manager Enterprise at Anthropic for financial services (AI-native company, not PM role, should score 6-9)",
+      "source": "synthetic",
+      "job": {
+        "job_id": "eval_tc_011",
+        "title": "Customer Success Manager, Enterprise - Financial Services",
+        "company": "Anthropic",
+        "location": "New York, NY",
+        "applicant_count": null,
+        "description": "Anthropic is an AI safety company building reliable, interpretable, and steerable AI systems. Our Claude models are deployed by enterprises across financial services, healthcare, legal, and technology sectors. We are growing our enterprise go-to-market team to support large-scale AI deployments.\n\nAnthropic is looking for a Customer Success Manager, Enterprise to own a portfolio of financial services enterprise accounts. You will be the primary post-sale relationship owner for Tier 1 banks, fintech platforms, and financial services companies deploying Claude at scale. This role is deeply embedded in the AI deployment lifecycle — helping clients realize value from LLM integration, guiding their technical and operational AI adoption journey, and serving as the bridge between Anthropic's AI capabilities and financial services domain requirements.\n\nResponsibilities: Own post-sale relationships for a portfolio of 15-20 enterprise financial services accounts including banks, fintechs, and asset managers. Drive adoption and expansion by guiding clients through AI implementation phases from pilot to production to scale. Serve as the domain expert on financial services AI use cases: fraud detection, credit decisioning, compliance automation, customer service AI, document processing. Lead executive business reviews with C-suite and VP-level stakeholders at client accounts. Partner with Anthropic's solutions engineering and product teams to communicate client needs and influence roadmap. Develop playbooks for successful AI deployment in regulated financial services environments. Identify upsell and expansion opportunities within your account portfolio.\n\nRequirements: 7+ years of experience in customer success, account management, or enterprise consulting ideally with financial services companies or enterprise fintech. Domain expertise in financial services: banking, payments, insurance, or capital markets. Experience with AI or ML product deployments at enterprise clients (LLMs, NLP, predictive analytics). Strong executive presence comfortable leading conversations with CTO, CDO, and CISO-level stakeholders. Ability to understand technical AI concepts and translate them into business value for financial services clients.\n\nNice to Have: Background in product management, solutions engineering, or AI consulting. Experience with credit decisioning, fraud detection, or regulatory compliance technology. Knowledge of LLM implementation patterns (RAG, fine-tuning, prompt engineering, agent architectures). This is a customer-facing, quota-carrying role at one of the world's leading AI companies. Compensation includes $160K-$200K OTE plus Anthropic equity."
+      },
+      "expected": {
+        "score_min": 6,
+        "score_max": 9,
+        "ai_opportunity": true,
+        "required_match_tags": ["AI", "fintech"],
+        "forbidden_match_tags": [],
+        "red_flags_expected": false
+      },
+      "eval_type": "accuracy",
+      "failure_mode_tested": "none"
+    },
+    {
+      "id": "tc_012",
+      "description": "Edge case — Associate PM at payments company (right domain, wrong level — should score 2-5)",
+      "source": "synthetic",
+      "job": {
+        "job_id": "eval_tc_012",
+        "title": "Associate Product Manager",
+        "company": "PayPath",
+        "location": "New York, NY",
+        "applicant_count": null,
+        "description": "PayPath is a B2B payments platform helping small and medium businesses accept and send payments online. We process $5B annually and serve 20,000+ merchants across e-commerce and SaaS.\n\nPayPath is hiring an Associate Product Manager to join our Payments team. This is an entry-level product management role for candidates with 1-2 years of experience. You will support senior PMs on payments feature development, manage the backlog, run sprint ceremonies, and own smaller product initiatives end-to-end.\n\nThis role is ideal for candidates early in their product management careers who want to build foundational PM skills in the payments industry.\n\nResponsibilities: Support senior PMs in defining requirements for PayPath's payment acceptance and disbursement products. Write and maintain product specifications, user stories, and acceptance criteria. Run sprint planning, backlog grooming, and retrospective ceremonies with your engineering team. Analyze product metrics and prepare weekly reports for senior PM and stakeholders. Own small, scoped feature launches from requirements through QA and release. Conduct competitive analysis and synthesize findings for the team. Gather and organize customer feedback from support tickets and user research sessions.\n\nRequirements: 1-2 years of product management or product analyst experience. Exposure to payments, fintech, or SaaS is a plus. Strong written communication and organizational skills. Analytical mindset comfortable with Excel, SQL basics, and product metrics. Collaborative, team-first attitude. Bachelor's degree required.\n\nThis is an Associate PM role — senior or director-level candidates are overqualified and will not be considered. We are specifically hiring for early-career talent to develop within PayPath. Compensation: $85K-$105K base plus equity. No relocation assistance."
+      },
+      "expected": {
+        "score_min": 2,
+        "score_max": 5,
+        "ai_opportunity": false,
+        "required_match_tags": [],
+        "forbidden_match_tags": [],
+        "red_flags_expected": true
+      },
+      "eval_type": "accuracy",
+      "failure_mode_tested": "none"
+    },
+    {
+      "id": "tc_013",
+      "description": "Consistency test — same job scored 3 times, variance must be <= 1 point (uses tc_001 Square job)",
+      "source": "real",
+      "job": {
+        "job_id": "eval_tc_013",
+        "title": "Head of Product, Trust and Safety",
+        "company": "Block (Square)",
+        "location": "New York, NY or Remote",
+        "applicant_count": null,
+        "description": "Square is seeking a Head of Product for our Trust & Safety suite. You will define the vision and roadmap for systems protecting sellers and buyers across our payments ecosystem, including dispute resolution, fraud prevention, and seller protection programs.\n\nResponsibilities: Own the risk decisioning platform covering real-time fraud scoring, dispute management, and chargeback resolution. Lead product strategy for fraud detection, identity risk, and seller protection at payments scale. Partner with ML teams to deploy fraud models and risk signals across Square's ecosystem. Build and manage a team of PMs across fraud, disputes, and platform infrastructure. Drive alignment with Compliance, Legal, Finance on regulatory requirements and dispute SLAs. Define KPIs for fraud loss rates, dispute win rates, and seller experience metrics.\n\nRequirements: 10+ years in product management, 5+ years in financial services, payments, fraud, risk, or trust & safety. Experience building risk platform products: fraud detection, identity verification, dispute resolution. Strong technical foundation working with ML engineers and data scientists. Track record of cross-functional leadership across engineering, data science, legal, compliance. Domain knowledge in payments fraud, chargeback economics, or identity risk.\n\nWe are excited if you have: decisioning platforms, agentic AI for fraud detection, real-time risk scoring, KYC/identity verification, or seller protection at scale. Square offers hybrid work (2-3 days/week in NY/SF) or fully remote."
+      },
+      "expected": {
+        "score_min": 7,
+        "score_max": 10,
+        "ai_opportunity": true,
+        "required_match_tags": [],
+        "forbidden_match_tags": [],
+        "red_flags_expected": false
+      },
+      "eval_type": "consistency",
+      "failure_mode_tested": "none"
+    }
+  ]
+}

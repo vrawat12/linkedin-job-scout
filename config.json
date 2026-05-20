@@ -1,0 +1,40 @@
+{
+  "search_queries": [
+    "Senior Director Product Management Fintech",
+    "VP Product Payments",
+    "Head of Product AI Financial Services",
+    "VP Product Risk Decisioning",
+    "Forward Deployed Engineer Financial Services",
+    "AI Solutions Engineer Fintech",
+    "Business Development AI Fintech",
+    "Director Product AI Platform",
+    "Head of Product Credit AI",
+    "Solutions Architect AI Decisioning",
+    "GM AI Products Financial Services",
+    "VP Product Fraud AI"
+  ],
+  "adzuna_queries": [
+    "Director Product Management Fintech",
+    "VP Product",
+    "Head of Product",
+    "Forward Deployed Engineer",
+    "AI Solutions Engineer",
+    "Product Lead AI",
+    "Director Product Payments",
+    "VP Product Risk",
+    "Head of Product Credit",
+    "Solutions Architect Fintech",
+    "General Manager AI Products",
+    "Director Product Fraud"
+  ],
+  "greenhouse_companies": [
+    "brex", "stripe", "marqeta", "anthropic", "scaleai", "alloy"
+  ],
+  "max_days_posted": 7,
+  "min_relevance_score": 6,
+  "recipient_email": "",
+  "exclude_contract": true,
+  "prefer_remote_hybrid": true,
+  "require_salary": false,
+  "send_no_match_email": false
+}
